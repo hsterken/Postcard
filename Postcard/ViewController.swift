@@ -35,6 +35,9 @@ class ViewController: UIViewController {
         
         // send mail button pressed
         
+        // Adding comment her to test commits
+        
+        
         messageLabel.hidden = false
         messageLabel.text = enterMessageTextField.text
         messageLabel.textColor = UIColor.redColor()
